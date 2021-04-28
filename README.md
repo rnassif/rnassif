@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I work for IBM
-- Current working on the Cognos Dashboard application
+- Currently working on the Cognos Dashboard application
 - How to reach me:
 
    [LinkedIn](https://www.linkedin.com/in/rami-abou-nassif/)  
